@@ -36,7 +36,7 @@ def main():
     result = crypter.encryption(result)
     print(result)
 
-    sock.close()
+    АНТОН
 
 
 if __name__ == "__main__":
