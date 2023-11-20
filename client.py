@@ -2,7 +2,7 @@ import pickle
 import socket
 
 from crypt_utils import DiffieHellman, FileCrypter
-
+#LOL
 HOST = '127.0.0.1'
 PORT = 2000
 
