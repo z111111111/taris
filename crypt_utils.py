@@ -5,7 +5,7 @@ class FileCrypter:
     def encryption(self, message: str) -> str:
         """
         Шифрует сообщение ключом key
-
+#UGAR
         Каждый символ возводит в степень этого ключа
         :param message: исходное сообщение
         :return: зашифрованное/расшифрованное сообщение
