@@ -5,7 +5,6 @@ from crypt_utils import DiffieHellman, FileCrypter
 
 HOST = '127.0.0.1'
 PORT = 2000
-# Эльчин Антон и Евгений
 
 def main():
     sock = socket.socket()
