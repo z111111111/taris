@@ -36,7 +36,7 @@ def main():
             print(result)
 
         else:
-            raise ValueError(f"Был принят некорректный тип data: {type(data)}")
+      АНТОН
 
 
 if __name__ == "__main__":
